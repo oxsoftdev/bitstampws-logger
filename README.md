@@ -1,0 +1,2 @@
+# bitstampws-logger
+bitstampws client
